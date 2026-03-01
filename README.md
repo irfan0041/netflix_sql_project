@@ -10,3 +10,5 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 - Identify the most common ratings for movies and TV shows
 - Examine content trends by release year, country, and duration
 - Categorize content based on genre and keywords
+
+**Dataset:**
